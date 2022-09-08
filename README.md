@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como Dev Jr na Schadek Automotive
 - 🌱 Estou me especializando em Front-End
-- 🎓 Cursando GTI na Fatec de Itu (4/6)
+- 🎓 Cursando GTI na Fatec de Itu (5/6)
 - 👨  Tenho 22 anos de idade
 - 📧 Contato: angelinhow.contato@gmail.com
 
