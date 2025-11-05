@@ -1,7 +1,7 @@
 ### Olá, eu sou o Angelo Trentin! 👋
 Desenvolvedor com foco em Front-End, UX/UI Design e otimização de sistemas. Minha experiência une a lógica da TI com a estética do Design, buscando sempre criar soluções funcionais, intuitivas e de alto impacto visual.
 
-# Habilidades Técnicas e Ferramentas
+### Habilidades Técnicas e Ferramentas
 Uma visão geral das minhas principais stacks em Desenvolvimento e Design:
 
 ## Desenvolvimento
