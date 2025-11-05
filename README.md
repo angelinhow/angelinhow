@@ -4,7 +4,7 @@ Desenvolvedor com foco em Front-End, UX/UI Design e otimização de sistemas. Mi
 ### Habilidades Técnicas e Ferramentas
 Uma visão geral das minhas principais stacks em Desenvolvimento e Design:
 
-## Desenvolvimento
+# Desenvolvimento
 Linguagens & Frameworks: C# , .NET , Blazor , HTML , CSS , JavaScript.
 
 Banco de Dados: SQL Server.
