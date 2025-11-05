@@ -1,16 +1,35 @@
-### Opa, beleza? Sou o Angelo Trentin.
+### Olá, eu sou o Angelo Trentin! 👋
+Desenvolvedor com foco em Front-End, UX/UI Design e otimização de sistemas. Minha experiência une a lógica da TI com a estética do Design, buscando sempre criar soluções funcionais, intuitivas e de alto impacto visual.
 
-- 🔭 Trabalho como Dev Jr na Schadek Automotive
-- 🌱 Estou me especializando em Front-End
-- 🎓 Cursando GTI na Fatec de Itu (6/6)
-- 👨  Tenho 24 anos de idade
-- 📧 Contato: angelinhow.contato@gmail.com
+Habilidades Técnicas e Ferramentas
+Uma visão geral das minhas principais stacks em Desenvolvimento e Design:
 
-<div align="center">
-  <a href="https://github.com/angelinhow">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelinhow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinhow&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### Desenvolvimento
+Linguagens & Frameworks: C# , .NET , Blazor , HTML , CSS , JavaScript.
+
+Banco de Dados: SQL Server.
+
+Automação & Scripts: Python (PyAutoGUI, Selenium, Pandas) , RPA.
+
+Controle de Versão: Git/GitHub , Azure DevOps.
+
+Outras Tecnologias: API REST/JSON.
+
+### Design & UX/UI
+Ferramentas: Photoshop (avançado) , Figma , Illustrator , Premiere , CapCut.
+
+Conceitos: Design System , UX/UI Design , Branding , SEO.
+
+Web Design: WordPress , cPanel , HostGator.
+
+
+### Formação Acadêmica
+
+Gestão da Tecnologia da Informação (GTI): Fatec Dom Amaury Castanho (Conclusão em 2024).
+
+Engenharia da Computação: Univesp (Conclusão em 2028).
+
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
