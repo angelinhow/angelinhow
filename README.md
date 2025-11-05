@@ -1,15 +1,15 @@
 ### Olá, eu sou o Angelo Trentin! 👋
-Desenvolvedor com foco em Front-End, UX/UI Design e otimização de sistemas. Minha experiência une a lógica da TI com a estética do Design, buscando sempre criar soluções funcionais, intuitivas e de alto impacto visual.
+<p>Desenvolvedor com foco em Front-End, UX/UI Design e otimização de sistemas. Minha experiência une a lógica da TI com a estética do Design, buscando sempre criar soluções funcionais, intuitivas e de alto impacto visual.</p>
 
 ### Habilidades Técnicas e Ferramentas
-Uma visão geral das minhas principais stacks em Desenvolvimento e Design:
+<p>Uma visão geral das minhas principais stacks em Desenvolvimento e Design:</p>
 
 ## Desenvolvimento
-Linguagens & Frameworks: C# , .NET , Blazor , HTML , CSS , JavaScript.
-Banco de Dados: SQL Server.
-Automação & Scripts: Python (PyAutoGUI, Selenium, Pandas) , RPA.
-Controle de Versão: Git/GitHub , Azure DevOps.
-Outras Tecnologias: API REST/JSON.
+<p>Linguagens & Frameworks: C# , .NET , Blazor , HTML , CSS , JavaScript.</p>
+<p>Banco de Dados: SQL Server.</p>
+<p>Automação & Scripts: Python (PyAutoGUI, Selenium, Pandas) , RPA.</p>
+<p>Controle de Versão: Git/GitHub , Azure DevOps.</p>
+<p>Outras Tecnologias: API REST/JSON.</p>
 
 ## Design & UX/UI
 <p>Ferramentas: Photoshop (avançado) , Figma , Illustrator , Premiere , CapCut.</p>
@@ -17,8 +17,8 @@ Outras Tecnologias: API REST/JSON.
 <p>Web Design: WordPress , cPanel , HostGator.</p>
 
 ## Formação Acadêmica
-Gestão da Tecnologia da Informação (GTI): Fatec Dom Amaury Castanho (Conclusão em 2024).
-Engenharia da Computação: Univesp (Conclusão em 2028).
+<p>Gestão da Tecnologia da Informação (GTI): Fatec Dom Amaury Castanho (Conclusão em 2024).</p>
+<p>Engenharia da Computação: Univesp (Conclusão em 2028).</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
