@@ -5,7 +5,7 @@
 <p>Uma visão geral das minhas principais stacks em Desenvolvimento e Design:</p>
 
 ## Desenvolvimento
-<p>Linguagens & Frameworks: C# , .NET , Blazor , HTML , CSS , JavaScript.</p>
+<p>Linguagens & Frameworks: C# , .NET , Blazor, BootStrap , HTML , CSS , JavaScript.</p>
 <p>Banco de Dados: SQL Server.</p>
 <p>Automação & Scripts: Python (PyAutoGUI, Selenium, Pandas) , RPA.</p>
 <p>Controle de Versão: Git/GitHub , Azure DevOps.</p>
