@@ -12,9 +12,9 @@ Controle de Versão: Git/GitHub , Azure DevOps.
 Outras Tecnologias: API REST/JSON.
 
 ## Design & UX/UI
-Ferramentas: Photoshop (avançado) , Figma , Illustrator , Premiere , CapCut.
-Conceitos: Design System , UX/UI Design , Branding , SEO.
-Web Design: WordPress , cPanel , HostGator.
+<p>Ferramentas: Photoshop (avançado) , Figma , Illustrator , Premiere , CapCut.</p>
+<p>Conceitos: Design System , UX/UI Design , Branding , SEO.</p>
+<p>Web Design: WordPress , cPanel , HostGator.</p>
 
 ## Formação Acadêmica
 Gestão da Tecnologia da Informação (GTI): Fatec Dom Amaury Castanho (Conclusão em 2024).
