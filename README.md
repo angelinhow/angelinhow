@@ -5,10 +5,10 @@
 <p>An overview of my main stacks in Development and Design:</p>
 
 ## Development
-<p>Languages & Frameworks: C# , .NET , Blazor, BootStrap , HTML , CSS , JavaScript.</p> <p>Databases: SQL Server.</p> <p>Automation & Scripts: Python (PyAutoGUI, Selenium, Pandas) , RPA.</p> <p>Version Control: Git/GitHub , Azure DevOps.</p> <p>Other Technologies: API REST/JSON.</p>
+<p>Languages & Frameworks: C#, .NET, Blazor, BootStrap, HTML, CSS, JavaScript.</p> <p>Databases: SQL Server.</p> <p>Automation & Scripts: Python (PyAutoGUI, Selenium, Pandas), RPA.</p> <p>Version Control: Git/GitHub ,Azure DevOps.</p> <p>Other Technologies: API REST/JSON.</p>
 
 ## Design & UX/UI
-<p>Tools: Photoshop (advanced) , Figma , Illustrator , Premiere , CapCut.</p> <p>Concepts: Design System , UX/UI Design , Branding , SEO.</p> <p>Web Design: WordPress , cPanel , HostGator.</p>
+<p>Tools: Photoshop (advanced), Figma, Illustrator, Premiere, CapCut.</p> <p>Concepts: Design System, UX/UI Design, Branding, SEO.</p> <p>Web Design: WordPress, cPanel, HostGator.</p>
 
 ## Academic Background
 <p>Information Technology Management (GTI): Fatec Dom Amaury Castanho (Expected completion in 2024).</p> <p>Computer Engineering: Univesp (Expected completion in 2028).</p>
