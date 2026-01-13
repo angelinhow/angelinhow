@@ -11,7 +11,7 @@
 <p>Tools: Photoshop (advanced), Figma, Illustrator, Premiere, CapCut.</p> <p>Concepts: Design System, UX/UI Design, Branding, SEO.</p> <p>Web Design: WordPress, cPanel, HostGator.</p>
 
 ## Academic Background
-<p>Information Technology Management (GTI): Fatec Dom Amaury Castanho (Expected completion in 2024).</p> <p>Computer Engineering: Univesp (Expected completion in 2028).</p>
+<p>Information Technology Management (GTI): Fatec Dom Amaury Castanho (2024).</p> <p>Computer Engineering: Univesp (Expected completion in 2028).</p>
  
 <div>
     <a href="mailto:angelohtrentin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
